@@ -1,4 +1,5 @@
 # About me 
+Electronic and computer engineer with a strong background in artificial intelligence and a passion for merging technology with healthcare. I specialize in image processing, machine learning, and data analysis, with a focus on developing innovative solutions for biomedical diagnostics and healthcare technologies.
 
 ## Quick Stats
 ![Marcelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelleGML&show_icons=true&theme=radical)
@@ -50,7 +51,6 @@ If you have any questions or feedback, don't hesitate to reach out. Let's connec
   </tr>
   <tr>
     <th>Data Processing</th>
-    <td><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/></td>
   </tr>
   <tr>
     <th>Cloud Platforms</th>
