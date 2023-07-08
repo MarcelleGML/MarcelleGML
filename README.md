@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+| Languages               | Storage          | Data Processing  | Cloud Platforms   | Messaging         | AI Libraries and Frameworks |
+|-------------------------|------------------|------------------|-------------------|--------------------|------------------------------|
+| ![Python](/html/body/div[1]/div[6]/main/div/div/div[2]/turbo-frame/div/div[1]/div/article/table/tbody/tr[1]/td[2]/a[1]/img)   | ![Storage Icon](https://example.com/storage-icon.png) | ![Data Processing Icon](https://example.com/data-processing-icon.png) | ![Cloud Platforms Icon](https://example.com/cloud-platforms-icon.png) | ![Messaging Icon](https://example.com/messaging-icon.png) | ![AI Libraries and Frameworks Icon](https://example.com/ai-libraries-icon.png) |
+
 -->
