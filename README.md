@@ -1,7 +1,44 @@
-### Hi there 👋
+# About me 
+
+## Quick Stats
+![Marcelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelleGML&show_icons=true&theme=radical)
+
+## Overview
+Welcome to my GitHub profile! Here, you'll find a collection of my projects and notes on Machine Learning. <br>
+I'm passionate about the field of Machine Learning and have been actively learning and exploring its various concepts and applications.<br>
+The projects you'll find here are the result of my learning journey, where I've implemented algorithms, built models, and worked on real-world datasets.<br>
+Feel free to explore my repositories and projects.<br>
+If you have any questions or feedback, don't hesitate to reach out. Let's connect and learn together in the world of Machine Learning!<br>
+**Happy coding!**
+
+## Contents
+<details>
+  <summary>Concepts in Machine Learning</summary>
+  
+  - Subitem 1
+  - Subitem 2
+  - Subitem 3
+</details>
+
+<details>
+  <summary>Projects</summary>
+  
+  - Subitem 1
+  - Subitem 2
+  - Subitem 3
+</details>
+
+<details>
+  <summary>Papers</summary>
+
+  - [Big Data in Transfusion Medicine and Artificial Intelligence Analysis for Red Blood Cell Quality Control ](https://karger.com/tmh/article/50/3/163/843905/Big-Data-in-Transfusion-Medicine-and-Artificial)
+  - [Cross-talk between red blood cells and plasma influences blood flow and omics phenotypes in severe COVID-19](https://elifesciences.org/articles/81316)
+  - [Erysense, a Lab-on-a-Chip-Based Point-of-Care Device to Evaluate Red Blood Cell Flow Properties With Multiple Clinical Applications](https://www.frontiersin.org/articles/10.3389/fphys.2022.884690/full?utm_source=dlvr.it&utm_medium=twitter)
+  - [A deep learning-based concept for high throughput image flow cytometry](https://pubs.aip.org/aip/apl/article-abstract/118/12/123701/39662/A-deep-learning-based-concept-for-high-throughput?redirectedFrom=fulltext)
+</details>
+
 
 ## Skills
-
 <table>
   <tr>
     <th>Languages</th>
