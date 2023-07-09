@@ -51,9 +51,6 @@ If you have any questions or feedback, don't hesitate to reach out. Let's connec
      <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></td>
   </tr>
   <tr>
-    <th>Data Processing</th>
-  </tr>
-  <tr>
     <th>Cloud Platforms</th>
     <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></td>
   </tr>
